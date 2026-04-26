@@ -20,7 +20,6 @@ As major technical highlights, I emphasize the **Star Schema** data modeling—e
 The best way to evaluate this project is by navigating the tool:
 
 * 🌐 **[Access the Interactive Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVkNjZlMzctYjJmMC00NTVkLTk2OGQtMGY0ZDNlOGYzMGQ0IiwidCI6IjlhOWIxZjg2LWJiYWYtNGUzOS1hN2RiLWY1ZmFlOTFlYTkyMiJ9&pageName=3d9bc5c7816faa48f258)**
-* 🎥 **[Watch the Presentation and Insights on YouTube (5 min)]()**
 
 ---
 
