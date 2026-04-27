@@ -1,4 +1,4 @@
-# Traffic Accidents Analysis in Brazil (2017-2025)
+# Traffic Accidents Analysis in Brazil (2017-2026)
 
 ### 🎬 Dashboard in Action
 ![Dashboard Showcase](images/showcase-en.gif)  
